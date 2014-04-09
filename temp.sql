@@ -1,0 +1,2 @@
+
+	print 'Script already executed'
